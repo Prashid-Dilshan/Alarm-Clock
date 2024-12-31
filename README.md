@@ -1,5 +1,9 @@
 # Alarm Clock in JavaScript
 
+
+![image](https://github.com/user-attachments/assets/9177fcde-5b15-4db2-8c4d-817f7521f71e)
+
+
 ## Overview
 This project is a simple **Alarm Clock** created using HTML, CSS, and JavaScript. It allows users to set alarms by selecting the hour, minute, and AM/PM period, and visually displays the current time in a digital clock format.
 
