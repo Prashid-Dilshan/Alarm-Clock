@@ -33,4 +33,4 @@ This project is a simple **Alarm Clock** created using HTML, CSS, and JavaScript
 
 ## Acknowledgments
 This project was created by **Prashid Dilshan** as part of a front-end development exercise.  
-Special thanks to the **LottieFiles** platform for providing animation support.
+
