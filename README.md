@@ -31,6 +31,8 @@ This project is a simple **Alarm Clock** created using HTML, CSS, and JavaScript
 3. Use the dropdown menus to select the desired alarm time (hour, minute, and AM/PM).
 4. Click the **Set Alarm** button to activate the alarm (functionality to be implemented in `script.js`).
 
-## Acknowledgments
-This project was created by **Prashid Dilshan** as part of a front-end development exercise.  
+---
+
+### Made by **Prashid Dilshan** ❤️
+This project was created by Prashid Dilshan as part of a front-end development exercise.  
 
